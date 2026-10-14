@@ -14,7 +14,7 @@ config.window_background_opacity = 0.85
 config.macos_window_background_blur = 20
 config.window_decorations = "RESIZE"
 config.keys = keybinds.keys
-config.leader = { key = 'a', mods = 'CTRL', timeout_milliseconds = 2000 }
+config.leader = { key = 'z', mods = 'ALT', timeout_milliseconds = 2000 }
 
 config.window_frame = {
   inactive_titlebar_bg = 'none',
